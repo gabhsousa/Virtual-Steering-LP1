@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(147,84): warning C4244: 'argumento': conversão de 'double' para '_Tp', possível perda de dados
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(147,84): warning C4244:         with
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(147,84): warning C4244:         [
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(147,84): warning C4244:             _Tp=int
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(147,84): warning C4244:         ]
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(147,46): warning C4244: 'argumento': conversão de 'double' para '_Tp', possível perda de dados
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(147,46): warning C4244:         with
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(147,46): warning C4244:         [
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(147,46): warning C4244:             _Tp=int
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(147,46): warning C4244:         ]
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(148,88): warning C4244: 'argumento': conversão de 'double' para '_Tp', possível perda de dados
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(148,88): warning C4244:         with
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(148,88): warning C4244:         [
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(148,88): warning C4244:             _Tp=int
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(148,88): warning C4244:         ]
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(148,48): warning C4244: 'argumento': conversão de 'double' para '_Tp', possível perda de dados
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(148,48): warning C4244:         with
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(148,48): warning C4244:         [
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(148,48): warning C4244:             _Tp=int
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(148,48): warning C4244:         ]
+  Steering.vcxproj -> C:\Users\gabrs\source\repos\Steering\x64\Debug\Steering.exe

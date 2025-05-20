@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(123,84): warning C4244: 'argumento': conversão de 'double' para '_Tp', possível perda de dados
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(123,84): warning C4244:         with
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(123,84): warning C4244:         [
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(123,84): warning C4244:             _Tp=int
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(123,84): warning C4244:         ]
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(123,46): warning C4244: 'argumento': conversão de 'double' para '_Tp', possível perda de dados
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(123,46): warning C4244:         with
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(123,46): warning C4244:         [
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(123,46): warning C4244:             _Tp=int
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(123,46): warning C4244:         ]
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(124,88): warning C4244: 'argumento': conversão de 'double' para '_Tp', possível perda de dados
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(124,88): warning C4244:         with
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(124,88): warning C4244:         [
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(124,88): warning C4244:             _Tp=int
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(124,88): warning C4244:         ]
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(124,48): warning C4244: 'argumento': conversão de 'double' para '_Tp', possível perda de dados
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(124,48): warning C4244:         with
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(124,48): warning C4244:         [
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(124,48): warning C4244:             _Tp=int
+C:\Users\gabrs\source\repos\Steering\Steering\main.cpp(124,48): warning C4244:         ]
+main.obj : error LNK2001: símbolo externo não resolvido "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@1@@Z)
+main.obj : error LNK2001: símbolo externo não resolvido "class cv::Moments __cdecl cv::moments(class cv::_InputArray const &,bool)" (?moments@cv@@YA?AVMoments@1@AEBV_InputArray@1@_N@Z)
+main.obj : error LNK2001: símbolo externo não resolvido "void __cdecl cv::cvtColor(class cv::_InputArray const &,class cv::_OutputArray const &,int,int)" (?cvtColor@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@HH@Z)
+main.obj : error LNK2001: símbolo externo não resolvido "void __cdecl cv::putText(class cv::_InputOutputArray const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::Point_<int>,int,double,class cv::Scalar_<double>,int,int,bool)" (?putText@cv@@YAXAEBV_InputOutputArray@1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Point_@H@1@HNV?$Scalar_@N@1@HH_N@Z)
+main.obj : error LNK2001: símbolo externo não resolvido "void __cdecl cv::flip(class cv::_InputArray const &,class cv::_OutputArray const &,int)" (?flip@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@H@Z)
+main.obj : error LNK2001: símbolo externo não resolvido "void __cdecl cv::line(class cv::_InputOutputArray const &,class cv::Point_<int>,class cv::Point_<int>,class cv::Scalar_<double> const &,int,int,int)" (?line@cv@@YAXAEBV_InputOutputArray@1@V?$Point_@H@1@1AEBV?$Scalar_@N@1@HHH@Z)
+main.obj : error LNK2001: símbolo externo não resolvido "void __cdecl cv::inRange(class cv::_InputArray const &,class cv::_InputArray const &,class cv::_InputArray const &,class cv::_OutputArray const &)" (?inRange@cv@@YAXAEBV_InputArray@1@00AEBV_OutputArray@1@@Z)
+main.obj : error LNK2001: símbolo externo não resolvido "void __cdecl cv::circle(class cv::_InputOutputArray const &,class cv::Point_<int>,int,class cv::Scalar_<double> const &,int,int,int)" (?circle@cv@@YAXAEBV_InputOutputArray@1@V?$Point_@H@1@HAEBV?$Scalar_@N@1@HHH@Z)
+C:\Users\gabrs\source\repos\Steering\x64\Release\Steering.exe : fatal error LNK1120: 8 externo não resolvidos
